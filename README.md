@@ -15,6 +15,8 @@ increase their forecasts. Early results indicate that waffle charts
 decrease underestimation, especially for periods far (greater than 4
 periods) in the future.
 
+Qualtrics survey: https://neu.co1.qualtrics.com/jfe/form/SV_3l1q0vQjiWftlVI
+
 ## Authors
 Hong Qu
 Adam Foley
