@@ -19,10 +19,12 @@ Qualtrics survey: https://neu.co1.qualtrics.com/jfe/form/SV_3l1q0vQjiWftlVI
 
 Paper: <a href="https://www.overleaf.com/read/bwxpsnwwxymh">A Study of Comparing Line, Stacked Column, and Waffle Charts for Forecasting Exponential Growth</a> (<a href="https://www.dropbox.com/s/y9v8p5d0o29n1yd/A_Study_of_Stacked_Comparing_Line__Column__and_Waffle_Charts_for_Forecasting_Exponential_Growth.pdf?dl=0">PDF</a>)
 
+##Data Analysis
+<li><a href="https://docs.google.com/spreadsheets/d/1cCxdHAVIYAhpmS_-hc90PX2zrN8vPTbHzFEqEFA6WDk/edit#gid=2059195474">Exponential Growth Visualization Research Study data sets</a>
+<li><a href="https://docs.google.com/spreadsheets/d/1X7Kc0BMCO06t1_tw2P9vFBt5Ryqd-TFgGDzAWJaCbRM/edit#gid=702028734">Exponential Growth Research dataset cleaned</a>
+  
 ## Authors
-Hong Qu
-
-Adam Foley
-
-Noam Gal
+<li>Hong Qu
+<li>Adam Foley
+<li>Noam Gal
 
