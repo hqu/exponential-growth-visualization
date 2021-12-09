@@ -17,7 +17,7 @@ periods) in the future.
 
 Qualtrics survey: https://neu.co1.qualtrics.com/jfe/form/SV_3l1q0vQjiWftlVI
 
-Paper: https://www.overleaf.com/read/bwxpsnwwxymh
+Paper: https://www.overleaf.com/read/bwxpsnwwxymh (<a href="https://www.dropbox.com/s/y9v8p5d0o29n1yd/A_Study_of_Stacked_Comparing_Line__Column__and_Waffle_Charts_for_Forecasting_Exponential_Growth.pdf?dl=0">PDF</a>)
 
 ## Authors
 Hong Qu
