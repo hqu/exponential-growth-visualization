@@ -16,7 +16,7 @@ decrease underestimation, especially for periods far (greater than 4
 periods) in the future.
 
 Qualtrics survey: https://neu.co1.qualtrics.com/jfe/form/SV_3l1q0vQjiWftlVI
-
+Paper: https://www.overleaf.com/read/bwxpsnwwxymh
 ## Authors
 Hong Qu
 Adam Foley
