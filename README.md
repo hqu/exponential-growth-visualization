@@ -21,6 +21,8 @@ Paper: https://www.overleaf.com/read/bwxpsnwwxymh
 
 ## Authors
 Hong Qu
+
 Adam Foley
+
 Noam Gal
 
