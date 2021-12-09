@@ -21,6 +21,7 @@ periods) in the future.
 ## Data Analysis
 <li><a href="https://docs.google.com/spreadsheets/d/1cCxdHAVIYAhpmS_-hc90PX2zrN8vPTbHzFEqEFA6WDk/edit#gid=2059195474">Exponential Growth Visualization Research Study data sets</a>
 <li><a href="https://docs.google.com/spreadsheets/d/1X7Kc0BMCO06t1_tw2P9vFBt5Ryqd-TFgGDzAWJaCbRM/edit#gid=702028734">Exponential Growth Research dataset cleaned</a>
+<li><a href="https://public.tableau.com/app/profile/hong.qu5598/viz/Tableau_Vis_results_data_analysis_v1/Studyresultsdashboard?publish=yes">Results data analysis using Tableau</a>
   
 ## Authors
 <li>Hong Qu
